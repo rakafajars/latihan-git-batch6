@@ -9,3 +9,8 @@ void main(List<String> arguments) {
 void perhitungan() {
   print(1+1);
 }
+
+
+void pengurangan() {
+  print(1-1);
+}
